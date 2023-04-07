@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Feb 01 11:08:52 CET 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0186-0c73-5ae4-0000024a5c58 
+on database directory /home/giovanni/eclipse-workspace/springboothibernate/mydbdirectory with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2aae9190 
+Loaded from file:/home/giovanni/.m2/repository/org/apache/derby/derby/10.10.1.1/derby-10.10.1.1.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.5+8
+user.dir=/home/giovanni/eclipse-workspace/springboothibernate
+os.name=Linux
+os.arch=amd64
+os.version=5.15.0-58-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

@@ -1,0 +1,7 @@
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/SpringboothibernateApplication.java
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/controller/EmployeeController.java
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/model/Employee.java
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/dao/EmployeeDao.java
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/service/EmployeeServiceImpl.java
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/service/EmployeeService.java
+/home/giovanni/eclipse-workspace/springboothibernate/src/main/java/com/springboot/davide/dao/EmployeeDaoImpl.java
